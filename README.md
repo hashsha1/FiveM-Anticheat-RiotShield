@@ -67,6 +67,9 @@ Of course you can set Triggers to a Ignore List, for example basicevents that wi
 
 ![Trigger1](https://i.ibb.co/5FNWN5F/aitrigger.png)
 
+![Trigger1](https://i.ibb.co/5FNWN5F/aitrigger.png)
+
+
 
 RiotShield also has a Debug Mode for test servers, also this mode has many options to log, ban or not ban, send discord logs for possible ban on "real" server.
 Also you can just "Debug-Log", turn a function to on, set "onlydebuglog" for this options and players will not get banned. Instead of a ban you will only get Informations of a possible Ban.
