@@ -64,3 +64,8 @@ The Outstanding Feature for Spawn Restrictions will automatically know wich of y
 
 The AI Anti Trigger Spam will automatically find Trigger in your Resources and will add them to the Protectionlist - absolute automatically.
 Of course you can set Triggers to a Ignore List, for example basicevents that will Triggered very often.
+
+RiotShield also has a Debug Mode for test servers, also this mode has many options to log, ban or not ban, send discord logs for possible ban on "real" server.
+Also you can just "Debug-Log", turn a function to on, set "onlydebuglog" for this options and players will not get banned. Instead of a ban you will only get Informations of a possible Ban.
+
+This mode is also outstanding for configuring the right settings of many options to avoid banning players while configuring your anticheat.
