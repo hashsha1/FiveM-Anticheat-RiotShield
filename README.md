@@ -49,6 +49,7 @@ Our detection Methods for Injectors would be quickly fixed by the Mod and Cheat 
 + Anti ESP
 + Anti Aimbot (5 Types) 
 + Ban system
++ Screenshot System
 + Easy Install
 
 Also including:
