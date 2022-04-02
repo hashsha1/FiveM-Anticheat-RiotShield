@@ -67,7 +67,7 @@ Of course you can set Triggers to a Ignore List, for example basicevents that wi
 
 ![Trigger1](https://i.ibb.co/5FNWN5F/aitrigger.png)
 
-![Trigger1](https://i.ibb.co/5FNWN5F/aitrigger.png)
+![Trigger1](https://i.ibb.co/mTJYVcb/aitriggeractiv.png)
 
 
 
