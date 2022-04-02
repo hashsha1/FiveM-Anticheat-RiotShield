@@ -8,6 +8,7 @@ Features of FiveM RiotShield
 + Anti Desudo (detect before Player spawn) 
 + Anti Cipher
 + Anti XSS (detect before Player connect) 
++ Detect Spawns for Vehicles, Objects, Peds of Server unknown Resources (Injected Menus)
 + Function Detection
 + Menu Detection
 + 9 different capturing method
@@ -33,6 +34,7 @@ Features of FiveM RiotShield
 + Anti Fast Run
 + Anti Teleport
 + Anti Noclip 
++ Auto Delete broken Vehicles
 + Give money Detection 
 + Eulen Confuse
 + Eulen Spam Events
