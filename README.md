@@ -13,6 +13,7 @@ Our detection Methods for Injectors would be quickly fixed by the Mod and Cheat 
 + Anti Desudo (detect before Player spawn) 
 + Anti Cipher
 + Anti XSS (detect before Player connect) 
++ Automatic AI Anti Spam Trigger (Server owner doesnt have to put Events in Configs to secure, RiotShield will do this for you.)
 + Detect Spawns for Vehicles, Objects, Peds of Server unknown Resources (Injected Menus)
 + Function Detection
 + Menu Detection
@@ -58,3 +59,8 @@ Also including:
 + Riot Secure (Antidump for your scripts)
  
 Each function has detailed configs, you can simply turn all on or off and also go into detail for looptimes, detection Times and much more. 
+
+The Outstanding Feature for Spawn Restrictions will automatically know wich of your Resources wants to spawn Obj, Peds, Vehicles and add it to the allowed resources.
+
+The AI Anti Trigger Spam will automatically find Trigger in your Resources and will add them to the Protectionlist - absolute automatically.
+Of course you can set Triggers to a Ignore List, for example basicevents that will Triggered very often.
