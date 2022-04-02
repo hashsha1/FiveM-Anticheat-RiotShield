@@ -57,10 +57,10 @@ Our detection Methods for Injectors would be quickly fixed by the Mod and Cheat 
 
 Also including:
 + Discord Whitelist System
-+ Advanced Connection Queue
-+ Obfuscator
++ Advanced Connection Queue (many Options for discord roles and prevent multiple joins)
++ Obfuscator (obfuscate resources with our RiotObfuscator)
 + Protected Player Teleport Script 
-+ Riot Secure (Antidump for your scripts)
++ RiotSecure (Antidump for your scripts, dumper will not able to see your original Client scripts)
  
 Each function has detailed configs, you can simply turn all on or off and also go into detail for looptimes, detection Times and much more. 
 
