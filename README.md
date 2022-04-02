@@ -64,7 +64,8 @@ The Outstanding Feature for Spawn Restrictions will automatically know wich of y
 
 The AI Anti Trigger Spam will automatically find Trigger in your Resources and will add them to the Protectionlist - absolute automatically.
 Of course you can set Triggers to a Ignore List, for example basicevents that will Triggered very often.
-/aitrigger.png
+
+![Trigger1](https://i.ibb.co/5FNWN5F/aitrigger.png)
 
 
 RiotShield also has a Debug Mode for test servers, also this mode has many options to log, ban or not ban, send discord logs for possible ban on "real" server.
