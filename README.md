@@ -25,6 +25,7 @@ Our detection Methods for Injectors would be quickly fixed by the Mod and Cheat 
 + Fx Server Crash Detection
 + Blacklist Weapon, Entity, Trigger, Explosion, Vehicle, Ped Spawn, carplate
 + Sql Injection protection 
++ Advanced License Checking (SQL Injection)
 + 1024 player support
 + Bypass Detection
 + Anti Sound Spam
