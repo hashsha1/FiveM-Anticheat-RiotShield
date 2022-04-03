@@ -18,6 +18,7 @@ Our detection Methods for Injectors would be quickly fixed by the Mod and Cheat 
 + Anti XSS (detect before Player connect) 
 + Automatic AI Anti Spam Trigger (Server owner doesnt have to put Events in Configs to secure, RiotShield will do this for you.)
 + Detect Spawns for Vehicles, Objects, Peds of Server unknown Resources (Injected Menus)
++ Anti DDoS
 + Function Detection
 + Menu Detection
 + 9 different capturing method
