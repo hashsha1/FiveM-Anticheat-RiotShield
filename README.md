@@ -66,13 +66,14 @@ Each function has detailed configs, you can simply turn all on or off and also g
 
 The Outstanding Feature for Spawn Restrictions will automatically know wich of your Resources wants to spawn Obj, Peds, Vehicles and add it to the allowed resources.
 
+![spawn](https://i.postimg.cc/Bn1BpkSS/spawnai.png)
+
 The AI Anti Trigger Spam will automatically find Trigger in your Resources and will add them to the Protectionlist - absolute automatically.
 Of course you can set Triggers to a Ignore List, for example basicevents that will Triggered very often.
 
 ![Trigger1](https://i.ibb.co/5FNWN5F/aitrigger.png)
 
 ![Trigger1](https://i.ibb.co/mTJYVcb/aitriggeractiv.png)
-
 
 
 RiotShield also has a Debug Mode for test servers, also this mode has many options to log, ban or not ban, send discord logs for possible ban on "real" server.
