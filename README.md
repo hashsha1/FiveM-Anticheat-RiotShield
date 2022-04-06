@@ -28,6 +28,8 @@ Our detection Methods for Injectors would be quickly fixed by the Mod and Cheat 
 + Advanced License Checking (SQL Injection)
 + 1024 player support
 + Bypass Detection
++ Anti GiveWeapon
++ Detect Weapon given from Injected Resources
 + Anti Sound Spam
 + Anti Phone Crash
 + Phone Blacklist messages,tweet,yellow pages
