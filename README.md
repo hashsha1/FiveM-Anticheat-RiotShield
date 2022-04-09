@@ -85,5 +85,8 @@ Also you can just "Debug-Log", turn a function to on, set "onlydebuglog" for thi
 
 This mode is also outstanding for configuring the right settings of many options to avoid banning players while configuring your anticheat.
 
-Anti Lua Executor:
-https://youtu.be/-FWpnRxuEP0
+Some Video Examples
+
+Anti Lua Executor: https://youtu.be/-FWpnRxuEP0
+
+Anti Eulen: https://www.youtube.com/watch?v=sxuQp7L8ksM
