@@ -90,3 +90,5 @@ Some Video Examples
 Anti Lua Executor: https://youtu.be/-FWpnRxuEP0
 
 Anti Eulen: https://www.youtube.com/watch?v=sxuQp7L8ksM
+
+Anti GiveWeapon: https://youtu.be/XJeF1ePakuo
