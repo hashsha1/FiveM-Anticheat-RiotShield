@@ -87,6 +87,8 @@ This mode is also outstanding for configuring the right settings of many options
 
 Some Video Examples
 
+Trigger AI Learning: https://www.youtube.com/watch?v=hN4gE03jA6c
+
 Anti Lua Executor: https://youtu.be/-FWpnRxuEP0
 
 Anti Eulen: https://www.youtube.com/watch?v=sxuQp7L8ksM
