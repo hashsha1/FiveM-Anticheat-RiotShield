@@ -5,9 +5,6 @@ Features of FiveM RiotShield
 
 The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 
-The Reason of Non-Public and carefull allowed Server:
-Our detection Methods for Injectors would be quickly fixed by the Mod and Cheat developers, to prevent this we are carefully check wich Server is allowed to use.
-
 + Low ms usage (0.01-0.02)
 + Player protection 
 + Anti Eulen (detect before Player spawn) 
