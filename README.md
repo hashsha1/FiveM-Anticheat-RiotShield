@@ -11,6 +11,8 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Anti Skript.gg (detect before Player spawn) 
 + Anti Redengine (detect before Player spawn) 
 + Anti Desudo (detect before Player spawn) 
++ Executor Crasher
++ Anti Lua Executor
 + Anti Cipher
 + Anti XSS (detect before Player connect) 
 + Automatic AI Anti Spam Trigger (Server owner doesnt have to put Events in Configs to secure, RiotShield will do this for you.)
@@ -21,6 +23,7 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + 9 different capturing method
 + Fx Server Crash Detection
 + Blacklist Weapon, Entity, Trigger, Explosion, Vehicle, Ped Spawn, carplate
++ Remove Blacklisted Vehicle when Player is in
 + Sql Injection protection 
 + Advanced License Checking (SQL Injection)
 + 1024 player support
@@ -46,10 +49,7 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Anti Noclip 
 + Auto Delete broken Vehicles
 + Give money Detection 
-+ Eulen Confuse
-+ Eulen Spam Events
 + Advanced Event Token (Working against latest Eulen Event listener) 
-+ Eulen Crasher
 + Anti ESP
 + Anti Aimbot (5 Types) 
 + Ban system
