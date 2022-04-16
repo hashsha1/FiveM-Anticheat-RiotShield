@@ -47,6 +47,7 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Anti Fast Run
 + Anti Teleport
 + Anti Noclip 
++ Anti Skywalk
 + Auto Delete broken Vehicles
 + Give money Detection 
 + Advanced Event Token (Working against latest Eulen Event listener) 
