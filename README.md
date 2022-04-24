@@ -14,6 +14,7 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Executor Crasher
 + Anti Lua Executor
 + Anti Cipher
++ Anti ServerTrigger
 + Anti XSS (detect before Player connect) 
 + Automatic AI Anti Spam Trigger (Server owner doesnt have to put Events in Configs to secure, RiotShield will do this for you.)
 + Detect Spawns for Vehicles, Objects, Peds of Server unknown Resources (Injected Menus)
