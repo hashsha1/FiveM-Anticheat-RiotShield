@@ -54,6 +54,8 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Advanced Event Token (Working against latest Eulen Event listener) 
 + Anti ESP
 + Anti Aimbot (5 Types) 
++ Command Blacklist
++ Anti Stop Anticheat
 + Ban system
 + Screenshot System
 + Easy Install
