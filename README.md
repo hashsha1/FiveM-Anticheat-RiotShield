@@ -17,7 +17,7 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Anti Server Trigger (AI Automatically protects all Server Events, no need to configure)
 + Anti XSS (detect before Player connect) 
 + Automatic AI Anti Spam Trigger (Server owner doesnt have to put Events in Configs to secure, RiotShield will do this for you.)
-+ Detect Spawns for Vehicles, Objects, Peds of Server unknown Resources (Injected Menus)
++ Detect Spawns for Vehicles, Objects, Peds from Injected Menus
 + Anti DDoS
 + Function Detection
 + Menu Detection
