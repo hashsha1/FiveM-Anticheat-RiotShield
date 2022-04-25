@@ -56,6 +56,7 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Anti Aimbot (5 Types) 
 + Command Blacklist
 + Anti Stop Anticheat
++ Anti Resource Start / Stop
 + Ban system
 + Screenshot System
 + Easy Install
