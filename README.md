@@ -41,6 +41,8 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + ESX/QB Exploit Detections
 + Discord Log
 + Anti Vehicle Spam
++ Anti Prop Spam
++ Anti Ped Spam
 + Anti-Nui-Dev Tools
 + Anti Eulen
 + Anti Vehicle Modifier
