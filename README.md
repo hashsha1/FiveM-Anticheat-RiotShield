@@ -29,7 +29,7 @@ The most Advanced and Outstanding Non-Public Anticheat for FiveM!
 + Advanced License Checking (SQL Injection)
 + 1024 player support
 + Bypass Detection
-+ Anti GiveWeapon
++ Anti GiveWeapon (with whitelist for like paintball etc.) 
 + Detect Weapon given from Injected Resources
 + Anti Sound Spam
 + Anti Phone Crash
