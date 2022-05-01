@@ -1,9 +1,7 @@
 
 ![riot](https://i.ibb.co/yYc81zW/Riot.png)
 
-Features of FiveM RiotShield
-
-The most Advanced and Outstanding Non-Public Anticheat for FiveM!
+Non Public Anticheat
 
 + Low ms usage (0.01-0.02)
 + Player protection 
