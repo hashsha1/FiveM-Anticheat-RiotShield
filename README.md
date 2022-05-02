@@ -50,6 +50,7 @@ Non Public Anticheat
 + Anti Noclip 
 + Anti Skywalk
 + Anti Distance Kill (with Auto revive) 
++ Anti Modmenue Kill Player
 + Auto Delete broken Vehicles
 + Give money Detection 
 + Advanced Event Token (Working against latest Eulen Event listener) 
