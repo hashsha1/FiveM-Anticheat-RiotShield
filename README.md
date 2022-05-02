@@ -49,6 +49,7 @@ Non Public Anticheat
 + Anti Teleport
 + Anti Noclip 
 + Anti Skywalk
++ Anti Distance Kill (with Auto revive) 
 + Auto Delete broken Vehicles
 + Give money Detection 
 + Advanced Event Token (Working against latest Eulen Event listener) 
