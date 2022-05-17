@@ -5,7 +5,7 @@ Non Public Anticheat
 
 + Low ms usage (0.01-0.02)
 + Player protection 
-+ Anti Eulen (detect before Player spawn) 
++ Anti Eulen (detect before Player spawn) working and Updated 17.05.2022
 + Anti Skript.gg (detect before Player spawn) 
 + Anti Redengine (detect before Player spawn) 
 + Anti Desudo (detect before Player spawn) 
