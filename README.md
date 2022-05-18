@@ -1,8 +1,6 @@
 
 ![riot](https://i.ibb.co/yYc81zW/Riot.png)
 
-Non Public Anticheat
-
 + Low ms usage (0.01-0.02)
 + Player protection 
 + Anti Eulen (detect before Player spawn) working and Updated 17.05.2022
