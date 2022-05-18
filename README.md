@@ -1,6 +1,11 @@
 
 ![riot](https://i.ibb.co/yYc81zW/Riot.png)
 
+Free Trials while Public Beta starting in the next few days!
+
+Join the Shield:
+https://discord.gg/Zm9DCK537W
+
 + Low ms usage (0.01-0.02)
 + Player protection 
 + Anti Eulen (detect before Player spawn) working and Updated 17.05.2022
