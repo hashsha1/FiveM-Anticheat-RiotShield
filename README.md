@@ -9,6 +9,7 @@ https://discord.gg/Zm9DCK537W
 + Low ms usage (0.01-0.02)
 + Player protection 
 + Anti Eulen (detect before Player spawn) working and Updated 17.05.2022
++ Anti Eulen Auto Update (If Eulen Updates, Anticheat Updates detection itself) 
 + Anti Skript.gg (detect before Player spawn) 
 + Anti Redengine (detect before Player spawn) 
 + Anti Desudo (detect before Player spawn) 
