@@ -118,4 +118,4 @@ Dont worry, you have nothing to, our Batch Script will do this for you. Just pas
 Just start riotshield in your server. cfg. 
 
 On first start of riot shield it will install some client scripts in all your scripts and riotshield will scan all original script files to AI learn all whitelisted resources for spawning items, weapons, entitys, objects and more much more to preconfigure youre settings for your anticheat. From there you can go further with detailed configuration. The preconfigured is for most servers perfect, nothing more to do. Just enter the game and do some things as usual users with option AI learning on. the anticheat will configure methods and settings depending on your scripts, acting like normal player, spam some triggers like basic events, the AI will automatically whitelist these triggers to prevent false bans. If you done this for like 30 minutes, turn off ai learning, restart server. 
-Now youre users can join and enjoy no false bans. 
+Now your users can join and enjoy no false bans. 
