@@ -7,7 +7,9 @@ Since early 2022 we are detecting any injections with auto Updating. RiotShield 
 
 Sont waste money on other Anticheats, dont waste time on configuring fiddly Configuration files and many false bans. 
 
-Recently added: Anti Block Events ✅
+Recently added: 
+blocking eulen safe wespon spawn ✅ 
+Anti Block Events ✅
 
 + Low ms usage (0.01-0.02)
 + Player protection 
