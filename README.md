@@ -124,6 +124,7 @@ Now your users can join and enjoy no false bans.
 Ingame Menu features:
 + Esp: box, lines, names, health
 + Spectate, Noclip
++ Entity Selection with aim on entity, copy coords, w/o heading, copy hash, copy name, delete entity. (perfect for coding in 3d world)
 + Ban, Unban, Warn, Send Discord Message
 + Anticheat Configuration live, all settings are live updates to all clients, no need to restart. 
 + User Inventory, wipe player, wipe loadout, remove/add money all accounts.
