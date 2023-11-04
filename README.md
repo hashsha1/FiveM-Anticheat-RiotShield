@@ -19,19 +19,27 @@ Anti Block Events ✅
 complete new ingame menu ✅
 
 + Low ms usage (0.01-0.02)
-+ Player protection 
-+ Anti Eulen (detect before Player spawn) working and Updated
++ Player protection
+
+  Outstanding:
++ Anti Eulen, Anti Script, Anti Redengine, Anti Desudo, Anti !all injection Tools! (detect before Player spawn)
+
+  
 + Anti injection Auto Update (If Eulen, Skript.gg, redengine Updates, Anticheat Updates detection itself) 
-+ Anti Skript.gg (detect before Player spawn) 
-+ Anti Redengine (detect before Player spawn) 
-+ Anti Desudo (detect before Player spawn) 
+
+  
 + Executor Crasher
 + Anti Lua Executor
 + Anti Cipher
-+ Anti Server Trigger (AI Automatically protects all Server Events, no need to configure)
-+ Anti XSS (detect before Player connect) 
++ Anti Server Trigger and Anti Client Trigger (AI Automatically protects all Server Events, no need to configure, even Escrowed, obfuscated, or Antidump Scripts, lua files does NOT to be in the script fxmanifest)
++ Anti XSS (detect before Player connect)
+
+  
 + Automatic AI Anti Spam Trigger (Server owner doesnt have to put Events in Configs to secure, RiotShield will do this for you.)
 + Detect Spawns for Vehicles, Objects, Peds from Injected Menus
+
++ Anti HitBox Mods
++ Anti AI
 + Anti DDoS
 + Function Detection
 + Menu Detection
@@ -41,7 +49,7 @@ complete new ingame menu ✅
 + Remove Blacklisted Vehicle when Player is in
 + Sql Injection protection 
 + Advanced License Checking (SQL Injection)
-+ 1024 player support
++ unlimited player support
 + Bypass Detection
 + Anti GiveWeapon (with whitelist for like paintball etc.) 
 + Detect Weapon given from Injected Resources
@@ -58,7 +66,6 @@ complete new ingame menu ✅
 + Anti Prop Spam
 + Anti Ped Spam
 + Anti-Nui-Dev Tools
-+ Anti Eulen
 + Anti Vehicle Modifier
 + Anti Superjump
 + Anti Fast Run
@@ -69,7 +76,6 @@ complete new ingame menu ✅
 + Anti Modmenue Kill Player
 + Auto Delete broken Vehicles
 + Give money Detection 
-+ Advanced Event Token (Working against latest Eulen Event listener) 
 + Anti ESP
 + Anti Aimbot (5 Types) 
 + Command Blacklist
