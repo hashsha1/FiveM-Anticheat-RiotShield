@@ -3,7 +3,12 @@
 
 
 News:
-Since early 2022 we are detecting any injections with auto Updating. RiotShield learns as Injection was updated by the Providers and detects new method by itself. For the case if this not happens, the client will send startup Logs to your server, your server provides us the logs and details so we can find out in wich way we can detect those. For this case there are severall "normal" detections as you know of typical anticheats with our long outstanding and self learning (Trigger Spam, AI learning, Anti server and client Trigger and much more) feature list.  Since 2022 RiotShield detected ALL cheats right at or after injection. 
+Since early 2022 we are detecting any injections with auto Updating. RiotShield learns as Injection was updated by the Providers and detects new method by itself. For the case if this not happens, the client will send startup Logs to your server, your server provides us the logs and details so we can find out in wich way we can detect those. For this case there are severall "normal" detections as you know of typical anticheats with our long outstanding and self learning (Trigger Spam, AI learning, Anti server and client Trigger and much more) feature list.  Since 2022 RiotShield detected ALL cheats right at or after injection.
+
+We banned in a time for 1 year over 10.000 confirmed Cheater by now.
+We are glad to present you the best user experience for performance and easy installation process. 
+
+Each ban is reviewed by us, if there is a false ban, we contact the server owner and if there is a need, we assist if there is a configuration messed, or even if there is a mistake in the code by us, we will immidately improve our code and push an update. of course we do push out updates only then if we found a solution for automatic configuration to your server to prevent false bans for other server. 
 
 So dont waste money on other Anticheats, dont waste time on configuring fiddly Configuration files and many false bans. 
 
