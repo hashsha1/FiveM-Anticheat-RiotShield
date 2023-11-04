@@ -7,7 +7,8 @@ Since early 2022 we are detecting any injections with auto Updating. RiotShield 
 
 So dont waste money on other Anticheats, dont waste time on configuring fiddly Configuration files and many false bans. 
 
-Recently added: 
+Recently added: deepscan for automatic trigger secure and spawn restrictions, automatic whitelist all spawnables objects, cars, entitys, securing all found trigger automatically, aswell for escrow and obfuscated scripts, also for antidump secured scripts. its magic. 🪄
+
 blocking eulen safe weapon spawn ✅ 
 Anti Block Events ✅
 complete new ingame menu ✅
