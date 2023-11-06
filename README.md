@@ -12,7 +12,11 @@ Each ban is reviewed by us, if there is a false ban, we contact the server owner
 
 So dont waste money on other Anticheats, dont waste time on configuring fiddly Configuration files and many false bans. 
 
-Recently added: deepscan for automatic trigger secure and spawn restrictions, automatic whitelist all spawnables objects, cars, entitys, securing all found trigger automatically, aswell for escrow and obfuscated scripts, also for antidump secured scripts. its magic. 🪄
+Recently added: 
+We proud to present our renewed On Screen Menu detection with no lag/fps drop for player. The new method doesnt need screenshot-basic, its standalone. Zero latency, out tools are build in. Just start your server, update will get the new files and delete old files. 📷
+
+Older News:
+Deepscan for automatic trigger secure and spawn restrictions, automatic whitelist all spawnables objects, cars, entitys, securing all found trigger automatically, aswell for escrow and obfuscated scripts, also for antidump secured scripts. its magic. 🪄
 
 blocking eulen safe weapon spawn ✅ 
 Anti Block Events ✅
