@@ -13,9 +13,13 @@ Each ban is reviewed by us, if there is a false ban, we contact the server owner
 So dont waste money on other Anticheats, dont waste time on configuring fiddly Configuration files and many false bans. 
 
 Recently added: 
-We proud to present our renewed On Screen Menu detection with no lag/fps drop for player. The new method doesnt need screenshot-basic, its standalone. Zero latency, all tools are build in. Just start your server, update will get the new files and delete old files. 📷
+Memory Scanning 💾
+with our new method we can scan the internal memory for detection vendors. detecting 100% injected mod menues and hacks. In the future we dont need to mofify the internal cfx of xour fxserver. 
 
 Older News:
+
+We proud to present our renewed On Screen Menu detection with no lag/fps drop for player. The new method doesnt need screenshot-basic, its standalone. Zero latency, all tools are build in. Just start your server, update will get the new files and delete old files. 📷
+
 Deepscan for automatic trigger secure and spawn restrictions, automatic whitelist all spawnables objects, cars, entitys, securing all found trigger automatically, aswell for escrow and obfuscated scripts, also for antidump secured scripts. its magic. 🪄
 
 blocking eulen safe weapon spawn ✅ 
